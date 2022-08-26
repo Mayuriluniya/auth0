@@ -3,7 +3,7 @@ import { TaskViewComponent } from './task-view.component';
 import { TaskService } from 'src/app/services/task.service';
 import { RouterTestingModule} from '@angular/router/testing';
 import {  DebugElement } from '@angular/core';
-import { taskservicestub } from './test_data';
+//import { taskservicestub } from './test_data';
 
 
 import { By } from '@angular/platform-browser';
