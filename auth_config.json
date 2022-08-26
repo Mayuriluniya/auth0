@@ -1,0 +1,11 @@
+{
+    "domain": "dev-aa3vc2q0.us.auth0.com",
+    "clientId": "eDWKI1ZqIo4hxSt6RwSNexhoRmQhapcj",
+    "audience":"https://todolistbackend.sample",
+    "serverUrl":"http://localhost:3000"
+    
+    
+
+
+}
+
